@@ -1,9 +1,9 @@
 on:
   push:
     branches:
-      - master
+      - senpai
 
-name: "Trigger: Push action"
+name: "Shellcheck"
 permissions: {}
 
 jobs:
